@@ -1,0 +1,5 @@
+# Demo teacher/admin credentials for MVP role model
+[
+  {"id": "1", "email": "admin@mergington.edu", "name": "Admin User", "role": "admin", "password": "adminpass"},
+  {"id": "2", "email": "student@mergington.edu", "name": "Student User", "role": "viewer", "password": "studentpass"}
+]
